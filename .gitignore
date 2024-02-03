@@ -1,0 +1,5 @@
+# Ignore virtual environment
+s2_venv/
+data/PDFs/
+job_descriptions.zip
+job_descriptions.csv
